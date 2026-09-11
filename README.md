@@ -52,4 +52,7 @@ Made with ❤️ at TinkerHub Useless Projects
 ![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
 
 
+live link : emotion-detector-k20whg4ci-mhdfavas668-bit.vercel.app
+
+
 
