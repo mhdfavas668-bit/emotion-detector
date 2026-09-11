@@ -30,12 +30,7 @@ For Software:
 - html
 - css
 - java script
-+
-For Hardware:
 
-### Implementation
-For Software:
-# Installation
 
 # Run
 
@@ -43,18 +38,10 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1280" height="640" alt="git (1)" src="https://github.com/mhdfavas668-bit/emotion-detector/blob/main/Screenshot%202026-09-12%20045624.png" />
+<img width="1280" height="640" alt="git (1)" src="https://github.com/mhdfavas668-bit/emotion-detector/blob/main/Screenshot%20(3).png" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 
 
